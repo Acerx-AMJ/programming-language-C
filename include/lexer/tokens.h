@@ -1,0 +1,18 @@
+#ifndef TOKENS_H
+#define TOKENS_H
+
+typedef enum
+{
+   MACRO, KEYWORD, IDENTIFIER, INTEGER, REAL, STRING, CHARACTER,
+   EQUALS, EQUALS_EQUALS, AND, OR, SMALLER, SMALLER_EQUAL, BIGGER, BIGGER_EQUAL, BANG, BANG_EQUALS,
+   SEMICOLON, L_PAREN, R_PAREN, COMMA,
+   NEWLINE, SKIP, END_OF_FILE
+} TType;
+
+typedef struct
+{
+   TType type;
+   char* lexeme;
+} Token;
+
+#endif // TOKENS_H
