@@ -1,7 +1,7 @@
 #ifndef VECTOR_H
 #define VECTOR_H
 
-#include "types/boolean.h"
+#include "boolean.h"
 #include <stddef.h>
 
 typedef struct

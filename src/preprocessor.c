@@ -1,8 +1,8 @@
-#include "preprocessor/preprocessor.h"
-#include "errors/errors.h"
-#include "io/io.h"
-#include "lexer/lexer.h"
-#include "types/stack.h"
+#include "preprocessor.h"
+#include "errors.h"
+#include "io.h"
+#include "lexer.h"
+#include "stack.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

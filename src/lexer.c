@@ -1,6 +1,6 @@
-#include "lexer/lexer.h"
-#include "errors/errors.h"
-#include "lexer/keywords.h"
+#include "lexer.h"
+#include "errors.h"
+#include "keywords.h"
 #include <ctype.h>
 #include <stdlib.h>
 #include <string.h>

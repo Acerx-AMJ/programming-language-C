@@ -1,4 +1,4 @@
-#include "lexer/keywords.h"
+#include "keywords.h"
 
 void initialize_keyword_set()
 {

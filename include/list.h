@@ -1,7 +1,7 @@
 #ifndef LIST_H
 #define LIST_H
 
-#include "types/boolean.h"
+#include "boolean.h"
 #include <stddef.h>
 
 typedef struct

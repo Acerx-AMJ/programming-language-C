@@ -1,7 +1,7 @@
 #ifndef KEYWORDS_H
 #define KEYWORDS_H
 
-#include "types/set.h"
+#include "set.h"
 
 extern Set keyword_set;
 

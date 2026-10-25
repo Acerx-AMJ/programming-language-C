@@ -1,8 +1,8 @@
 #ifndef LEXER_H
 #define LEXER_H
 
-#include "errors/catcher.h"
-#include "lexer/tokens.h"
+#include "catcher.h"
+#include "tokens.h"
 
 typedef struct
 {

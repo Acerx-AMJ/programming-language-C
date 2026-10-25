@@ -1,10 +1,10 @@
 #ifndef PREPROCESSOR_H
 #define PREPROCESSOR_H
 
-#include "errors/catcher.h"
-#include "lexer/tokens.h"
-#include "types/list.h"
-#include "types/set.h"
+#include "catcher.h"
+#include "tokens.h"
+#include "list.h"
+#include "set.h"
 
 typedef enum
 {

@@ -1,7 +1,7 @@
 #ifndef IO_H
 #define IO_H
 
-#include "errors/catcher.h"
+#include "catcher.h"
 
 char* read_input();
 

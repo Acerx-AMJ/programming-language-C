@@ -1,4 +1,4 @@
-#include "errors/catcher.h"
+#include "catcher.h"
 #include <stdio.h>
 
 void create_catcher(Catcher *catcher)

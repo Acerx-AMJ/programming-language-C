@@ -1,8 +1,8 @@
-#include "errors/errors.h"
-#include "lexer/keywords.h"
-#include "lexer/lexer.h"
-#include "io/io.h"
-#include "preprocessor/preprocessor.h"
+#include "errors.h"
+#include "keywords.h"
+#include "lexer.h"
+#include "io.h"
+#include "preprocessor.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

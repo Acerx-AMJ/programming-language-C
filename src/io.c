@@ -1,5 +1,5 @@
-#include "io/io.h"
-#include "errors/errors.h"
+#include "io.h"
+#include "errors.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

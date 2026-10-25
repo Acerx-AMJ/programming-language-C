@@ -1,7 +1,7 @@
 #ifndef STACK_H
 #define STACK_H
 
-#include "types/boolean.h"
+#include "boolean.h"
 #include <stddef.h>
 
 typedef struct

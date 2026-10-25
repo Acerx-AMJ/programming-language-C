@@ -1,7 +1,7 @@
 #ifndef CATCHER_H
 #define CATCHER_H
 
-#include "types/vector.h"
+#include "vector.h"
 
 typedef struct
 {
